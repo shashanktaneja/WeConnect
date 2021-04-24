@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://test123:WeConnect123@weconnect.h6ms3.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "bead232dbf2d0b67555e",
+    "githubSecret": "059677f751ea565f90873a597f1ac50eae64fd93"
+}
